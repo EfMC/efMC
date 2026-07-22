@@ -1,16 +1,30 @@
-## Hi there 👋
+# ¡Hola! Soy Esteban 👋
 
-<!--
-**EfMC/efMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudiante de Ingeniería Mecatrónica** | Enfocado en Sistemas Embebidos, Control y Robótica
 
-Here are some ideas to get you started:
+Me especializo en la integración de hardware y software para el diseño de sistemas automatizados, dispositivos IoT y modelos matemáticos de control. Me enfoco en llevar conceptos de cinemática y teoría de control a prototipos y sistemas funcionales en el mundo real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+**Lenguajes y Firmware**  
+- `C++` | `Python` | `TI-Basic`
+
+**Microcontroladores y Sistemas Embebidos**  
+- `ESP32` | `Arduino`
+
+**Modelado, Control y Simulación**  
+- `MATLAB` | `Simulink` | `Proteus` | `Multisim`
+
+**Diseño CAD y Mecánico**  
+- `SolidWorks`
+
+---
+
+### 🚀 Áreas de Interés y Proyectos
+
+- **🤖 Robótica y Cinemática:** Modelado de cinemática directa e inversa, simulación de cadenas dinámicas y control de trayectorias.
+- **🌐 IoT y Manipuladores Cartesianos:** Desarrollo de firmware en ESP32 para trazadores y manipuladores automatizados conectados a bases de datos.
+- **📊 Adquisición de Datos en Tiempo Real:** Integración vía comunicación serial entre sensores embebidos (ultrasónicos, IMUs) y MATLAB/Excel para registro y análisis.
+- **⚡ Sistemas Térmicos y Energía:** Análisis termodinámico, discretización numérica y modelado físico de prototipos de ciclos de potencia 
