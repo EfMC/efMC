@@ -2,7 +2,7 @@
 
 🎓 **Estudiante de Ingeniería Mecatrónica** | Enfocado en Sistemas Embebidos, Control y Robótica
 
-Me especializo en la integración de hardware y software para el diseño de sistemas automatizados, dispositivos IoT y modelos matemáticos de control. Me enfoco en llevar conceptos de cinemática y teoría de control a prototipos y sistemas funcionales en el mundo real.
+Me intereso en la integración de hardware y software para el diseño de sistemas automatizados y modelos matemáticos de control. Me enfoco en llevar conceptos de cinemática y teoría de control a prototipos y sistemas funcionales en el mundo real.
 
 ---
 
@@ -12,7 +12,7 @@ Me especializo en la integración de hardware y software para el diseño de sist
 - `C++` | `Python` | `TI-Basic`
 
 **Microcontroladores y Sistemas Embebidos**  
-- `ESP32` | `Arduino`
+- `ESP32` | `Arduino`| `Stm32`
 
 **Modelado, Control y Simulación**  
 - `MATLAB` | `Simulink` | `Proteus` | `Multisim`
