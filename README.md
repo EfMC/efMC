@@ -22,9 +22,4 @@ Me intereso en la integración de hardware y software para el diseño de sistema
 
 ---
 
-### 🚀 Áreas de Interés y Proyectos
 
-- **🤖 Robótica y Cinemática:** Modelado de cinemática directa e inversa, simulación de cadenas dinámicas y control de trayectorias.
-- **🌐 IoT y Manipuladores Cartesianos:** Desarrollo de firmware en ESP32 para trazadores y manipuladores automatizados conectados a bases de datos.
-- **📊 Adquisición de Datos en Tiempo Real:** Integración vía comunicación serial entre sensores embebidos (ultrasónicos, IMUs) y MATLAB/Excel para registro y análisis.
-- **⚡ Sistemas Térmicos y Energía:** Análisis termodinámico, discretización numérica y modelado físico de prototipos de ciclos de potencia 
